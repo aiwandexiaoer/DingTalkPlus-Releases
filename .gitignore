@@ -1,0 +1,5 @@
+# 只保留最新版本的产物，历史版本走 Releases
+*.apk
+*.zip
+!DingTalkPlus_v1.0.apk
+!DingTalkPlus-NotifPool.zip
