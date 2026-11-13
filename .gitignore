@@ -1,5 +1,5 @@
 # 只保留最新版本的产物，历史版本走 Releases
+# APK 一律走 Release 附件，不进 git；zip（Magisk 模块）提交到 git
 *.apk
 *.zip
-!DingTalkPlus_v1.0.apk
 !DingTalkPlus-NotifPool.zip
