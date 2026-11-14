@@ -8,7 +8,7 @@
 
 | 文件 | 说明 |
 |------|------|
-| `DingTalkPlus_v1.02.0.apk` | 主模块 |
+| `DingTalkPlus_v1.03.0.apk` | 主模块 |
 | `DingTalkPlus-NotifPool.zip` | Magisk 模块（防撤回必需） |
 
 从 [Releases](../../releases/latest) 页面下载。
@@ -22,7 +22,7 @@
 ### 1. 主模块
 
 ```bash
-adb install -r DingTalkPlus_v1.02.0.apk
+adb install -r DingTalkPlus_v1.03.0.apk
 ```
 
 或直接传到手机点击安装。
