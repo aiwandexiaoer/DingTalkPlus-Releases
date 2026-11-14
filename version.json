@@ -1,7 +1,7 @@
 {
   "version": "1.4",
   "versionCode": 5,
-  "notes": "新增聊天气泡外观自定义（三组配色、圆角、文字颜色、实时预览、一键恢复官方）；加号菜单快捷动作改为多选弹窗；修复点击气泡丢色与黑块残留",
+  "notes": "新增去除聊天页防泄密水印、聊天气泡外观自定义（三组配色、圆角、文字颜色、实时预览、一键恢复官方）；加号菜单快捷动作改为多选弹窗；修复点击气泡丢色与黑块残留",
   "downloadUrl": "https://github.com/aiwandexiaoer/DingTalkPlus-Releases/releases/latest/download/DingTalkPlus_v1.03.0.apk",
   "moduleUrl": "https://github.com/aiwandexiaoer/DingTalkPlus-Releases/releases/latest/download/DingTalkPlus-NotifPool.zip",
   "publishedAt": "2026-11-14T15:40:00Z"
